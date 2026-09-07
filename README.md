@@ -1,3 +1,4 @@
 # Sejal-2008n
-This is my first git repository .
-author -sejal maurya 
+This is my first git repository 
+<br>
+Author -sejal maurya 
